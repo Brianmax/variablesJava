@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292edf51-e731-4e4d-be32-21082fa3f2cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Booleanos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadorModulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +37,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Booleanos.executor": "Run",
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
-    "Application.Input.executor": "Run",
+    "Application.IfElse.executor": "Debug",
+    "Application.Input.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.OperadorModulo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/georgemaxi/Desktop/JavaG4/semana1/miercoles",
     "node.js.detected.package.eslint": "true",
@@ -73,12 +80,35 @@
       <option name="presentableId" value="Default" />
       <updated>1709171516739</updated>
       <workItem from="1709171517862" duration="10836000" />
-      <workItem from="1709233671227" duration="3301000" />
+      <workItem from="1709233671227" duration="3900000" />
+      <workItem from="1709261971690" duration="21000" />
+      <workItem from="1709337616302" duration="3166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Input.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Input.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IfElse.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

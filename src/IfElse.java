@@ -1,12 +1,18 @@
 import java.util.Scanner;
 
-public class Input {
+public class IfElse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese su edad");
         int edad = sc.nextInt();
-        System.out.println(edad);
-        System.out.println("Ingrese el precio");
-        double precio = sc.nextDouble();
+
+        if(edad >= 18)
+        {
+            System.out.println("Mayor de edad");
+        }
+        else
+        {
+            System.out.println("Menor de edad");
+        }
     }
 }
